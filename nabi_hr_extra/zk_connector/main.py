@@ -8,7 +8,7 @@
 ###########################################################################
 
 try:
-    import pip
+    import pip 
 except:
     print "########################################################"
     print "##        PLEASE INSTALL PIP PACKAGE FOR PYTHON       ##"
